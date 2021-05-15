@@ -514,6 +514,7 @@ small {
     }
     .card img{
         width: 90%;
+        height: 100%;
     }
     .card-column {
         width: 100%;
